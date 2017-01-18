@@ -8,7 +8,7 @@
 
   module.exports = function(client_id, client_secret) {
     var credentials, date;
-    date = '20140806';
+    date = '20160806';
     credentials = {
       'v': date,
       'client_id': client_id,
